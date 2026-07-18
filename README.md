@@ -84,9 +84,9 @@ Dashboard: Upon launching, enter your Target IP (or leave the default) and selec
 
 Admin Vault: Click the "⚙️ Admin Settings" button to configure engine limits.
 
-Default Master Key: admin123
+-> Default Master Key: admin123
 
-Here you can adjust the multithreading process limit (50-500) and port scan timeouts.
+-> Here you can adjust the multithreading process limit (50-500) and port scan timeouts.
 
 Initiate Audit: Click start. The chained execution engine will route the tasks, update the live terminal, and populate the dashboard upon completion.
 
